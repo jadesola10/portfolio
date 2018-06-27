@@ -1,0 +1,22 @@
+h1 { 
+	font-size: 50px;
+	margin: 5px;
+ }
+ h2 { 
+ 	color: purple;
+  }
+ .round {
+ 	border-radius: 25px;
+ }
+ body { 
+ 	font-family: Open Sans;
+ 	padding: 20px;
+  }
+.noline {
+	text-decoration: none;
+ }
+ a {
+ 	padding: 10px;
+ 	padding-left: 0px;
+ 	padding-bottom: 10px;
+ }
